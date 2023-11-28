@@ -32,7 +32,7 @@ Welcome to my GitHub universe! I'm a passionate full-stack engineer with five ye
 
 🌌 Explore my repositories and stars, dive into the code cosmos, and join me in shaping the future of technology. Collaborators, stargazers, and cosmic thinkers—let's embark on this stellar journey together!
 
-🚀 **Reach out:** Connect with me here or navigate to https://linkedin.com/in/christian-onokharigho for gravitational conversations and collaborations.
+🚀 **Reach out:** Connect with me here or navigate to [linkedin](https://linkedin.com/in/christian-onokharigho) for gravitational conversations and collaborations.
 
 🌟 **Remember:** In the code galaxy, possibilities are infinite—let's create marvels that echo across the digital cosmos! 🌌✨
 
