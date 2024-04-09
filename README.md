@@ -8,7 +8,7 @@ Welcome to my GitHub universe! I'm a passionate full-stack engineer with five ye
 
 ## About Me
 
-🌟 **Experience:** Five years plus soaring through the digital cosmos, crafting robust and scalable solutions that bring visions to life.
+🌟 **Experience:** Seven years plus soaring through the digital cosmos, crafting robust and scalable solutions that bring visions to life.
 
 💡 **Expertise:** I wield the powers of JavaScript, PHP, and an array of cutting-edge frameworks—Node.js, Express.js React.js, Vue.js, Laravel, Nuxt.js, Next.js, and Gatsby—to create dynamic and responsive experiences.
 
