@@ -4,7 +4,7 @@
 
 ### Full-Stack Engineer Extraordinaire | JavaScript Maestro | Code Architect
 
-Welcome to my GitHub universe! I'm a passionate full-stack engineer with five years of cosmic exploration into the realms of code, shaping digital landscapes with an arsenal of technologies and frameworks. 🚀
+Welcome to my GitHub universe! I'm a passionate full-stack engineer with years of cosmic exploration into the realms of code, shaping digital landscapes with an arsenal of technologies and frameworks. 🚀
 
 ## About Me
 
